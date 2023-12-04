@@ -9,6 +9,7 @@
 ## &#x1f4c8; GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celil-vural&theme=tokyonight&hide=swift,cmake,scss,&langs_count=6&layout=compact" height=180px />
 <img src="https://github-readme-stats.vercel.app/api?username=celil-vural&show_icons=true&theme=tokyonight" height=180px />
+
 <div align="center">
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=celil-vural&theme=tokyonight"  width="470" alt="Celil Vural"/>
 </div>
